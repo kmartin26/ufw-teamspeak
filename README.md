@@ -1,7 +1,9 @@
 # UFW TeamSpeak
+
 TeamSpeak App Profile for UFW Firewall
 
 ## Ports that will be open
+
 According the TeamSpeak [knowledgebase](https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/44/16/which-ports-does-the-teamspeak-3-server-use)
 
 | Service        | Protocol | Port  |
@@ -12,6 +14,7 @@ According the TeamSpeak [knowledgebase](https://support.teamspeakusa.com/index.p
 | TSDNS          | TCP      | 41144 |
 
 ## How-To
+
 Simply download the TeamSpeak profile and move it to the UFW applications.d folder:
 
     wget -O teamspeak https://raw.githubusercontent.com/kmartin26/ufw-teamspeak/master/teamspeak
