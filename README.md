@@ -4,7 +4,7 @@ TeamSpeak App Profile for UFW Firewall
 
 ## Ports that will be open
 
-According the TeamSpeak [knowledgebase](https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/44/16/which-ports-does-the-teamspeak-3-server-use)
+According the TeamSpeak [knowledgebase](https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/44/16/which-ports-does-the-teamspeak-3-server-use) only the following ports will be allowed with this app profile !
 
 | Service        | Protocol | Port  |
 | -------------- | -------- | ----- |
